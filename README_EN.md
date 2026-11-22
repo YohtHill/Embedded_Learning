@@ -4,6 +4,10 @@
 
 [中文](README.md) | **English**
 
+## STM32F0 Labs
+
+[STM32F0 / STM32F0 实验](Software/STM32F0/) · Thirteen CubeIDE projects covering GPIO, displays, ADC, timers, interrupts and PWM.
+
 ## Repository Structure
 
 ```
