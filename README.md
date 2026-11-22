@@ -6,7 +6,9 @@
 
 ## STM32F0 实验
 
-[STM32F0 / STM32F0 实验](Software/STM32F0/) · GPIO、显示、ADC、定时器、中断及 PWM 的 13 个 CubeIDE 工程。
+[查看 STM32F0 实验](Software/STM32F0/README.md)。13 个工程覆盖 GPIO、SPI 显示、ADC、定时器、中断和 PWM，全部已编译生成 ELF。下面是第 4 组实验输出。
+
+<img src="Software/STM32F0/docs/lcd-hello-world.jpg" width="320" alt="STM32F0 彩屏实验输出">
 
 ## 仓库结构
 

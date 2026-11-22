@@ -6,7 +6,9 @@
 
 ## STM32F0 Labs
 
-[STM32F0 / STM32F0 实验](Software/STM32F0/) · Thirteen CubeIDE projects covering GPIO, displays, ADC, timers, interrupts and PWM.
+[Browse the STM32F0 labs](Software/STM32F0/README_EN.md). All 13 projects built to ELF and cover GPIO, SPI displays, ADC, timers, interrupts and PWM. The example below is from Lab 4.
+
+<img src="Software/STM32F0/docs/lcd-hello-world.jpg" width="320" alt="STM32F0 display lab output">
 
 ## Repository Structure
 
