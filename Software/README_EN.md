@@ -22,3 +22,5 @@ Software/
 ## Notes
 
 Each Day folder contains: course examples + homework + demo code, all independently compilable and runnable.
+
+The [STM32F0 labs](STM32F0/) include 13 CubeIDE projects that can be imported individually.
